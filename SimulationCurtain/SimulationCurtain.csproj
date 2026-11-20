@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon Condition="Exists('../windows/assets/YierBubu.ico')">../windows/assets/YierBubu.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Using Include="System" />
+    <Using Include="System.IO" />
+    <Using Include="System.Linq" />
+    <Using Include="System.Collections.Generic" />
+    <Compile Include="../windows/YierBubu.Windows/AnimatedClip.cs" Link="Shared/AnimatedClip.cs" />
+    <Compile Include="../windows/YierBubu.Windows/AnimationLibrary.cs" Link="Shared/AnimationLibrary.cs" />
+    <Content Include="Assets/desk-break-hd.gif" Condition="Exists('Assets/desk-break-hd.gif')" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="../windows/assets/YierBubu.ico" Condition="Exists('../windows/assets/YierBubu.ico')" Link="Assets/YierBubu.ico" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="使用说明.txt" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

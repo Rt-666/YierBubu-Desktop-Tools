@@ -1,0 +1,52 @@
+{
+  "animations": [
+    {
+      "id": "cuddle",
+      "name": "抱抱贴贴",
+      "description": "靠在一起，慢慢蹭蹭，安心陪着你。",
+      "sha256": "e2993c26ebdc31599ca50115945e2db9c8b2c2abc0d07070942e39741daeeb19",
+      "sourceUrl": "https://github.com/Duang-cdh/-Bubu-Yier-Desktop-Pet-Software/blob/8757858895225086b7555f625ee1cda7d2b16be3/pet_res/skins/both/静止/悲伤/353.gif",
+      "file": "cuddle.gif"
+    },
+    {
+      "id": "kiss",
+      "name": "亲亲脸颊",
+      "description": "一个小亲亲，冒出满满的小爱心。",
+      "sha256": "a4459f2c7ad53544f9abcb99e091516f7e2fa6f6a6603f7187e9ff38b063ca31",
+      "sourceUrl": "https://github.com/Duang-cdh/-Bubu-Yier-Desktop-Pet-Software/blob/8757858895225086b7555f625ee1cda7d2b16be3/pet_res/skins/both/静止/平静/78b96273cd004165a69bc071d62292a2.gif",
+      "file": "kiss.gif"
+    },
+    {
+      "id": "dance",
+      "name": "开心扭扭",
+      "description": "一二和布布一起摆摆手、扭扭身体。",
+      "sha256": "f983eabcd820d06f4ca6e1e4b10056e386004ab6a6aa81eb65851cc94bb0ecc8",
+      "sourceUrl": "https://github.com/Duang-cdh/-Bubu-Yier-Desktop-Pet-Software/blob/8757858895225086b7555f625ee1cda7d2b16be3/pet_res/skins/both/静止/喜悦/361.gif",
+      "file": "dance.gif"
+    },
+    {
+      "id": "piggyback",
+      "name": "背背摇摇",
+      "description": "背上小伙伴，跟着音符轻轻摇摆。",
+      "sha256": "5183840ddaeb7a107669fb93f975eb04946634b0023636b973c39700831ba898",
+      "sourceUrl": "https://github.com/Duang-cdh/-Bubu-Yier-Desktop-Pet-Software/blob/8757858895225086b7555f625ee1cda7d2b16be3/pet_res/skins/both/走路/向左/466.gif",
+      "file": "piggyback.gif"
+    },
+    {
+      "id": "sleep",
+      "name": "枕边哄睡",
+      "description": "一二枕着小枕头熟睡，布布轻轻抚摸，安心陪着你。",
+      "sha256": "262d572528b9ed0f7fd9b01dde1d4e271ec593d9061a1cd8efda982bdfd82b66",
+      "sourceUrl": "https://github.com/Duang-cdh/-Bubu-Yier-Desktop-Pet-Software/blob/8757858895225086b7555f625ee1cda7d2b16be3/pet_res/skins/both/睡觉/496.gif",
+      "file": "sleep.gif"
+    },
+    {
+      "id": "scooter",
+      "name": "兜风小队",
+      "description": "小车向前，风车转转，一起去兜风。",
+      "sha256": "349d78940ea1d541ffe59dcc844c6b0eb3c305e558f6006679f7f2de21446645",
+      "sourceUrl": "https://github.com/Duang-cdh/-Bubu-Yier-Desktop-Pet-Software/blob/8757858895225086b7555f625ee1cda7d2b16be3/pet_res/skins/both/走路/向左/baeca2218af64bf0833e428c2f6d8104.gif",
+      "file": "scooter.gif"
+    }
+  ]
+}

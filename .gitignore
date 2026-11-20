@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.vs/
+/dist/
+/windows/assets/
+/SimulationCurtain/Assets/
+*.user
+*.suo
+*.zip
+*.exe
+*.dll
+*.pdb
+.env

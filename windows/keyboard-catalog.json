@@ -1,0 +1,72 @@
+{
+  "animations": [
+    {
+      "id": "yier-office",
+      "name": "一二专心敲字",
+      "description": "一二坐在电脑前，两只小爪子轮流敲字。",
+      "sha256": "814f2c1f07fd107e04aa1e18971c403c92142262da2dc4958c096e2ec3cd8cd7",
+      "sourceUrl": "https://github.com/Duang-cdh/-Bubu-Yier-Desktop-Pet-Software/blob/8757858895225086b7555f625ee1cda7d2b16be3/pet_res/skins/yier/静止/平静/289.gif",
+      "file": "yier-office.gif"
+    },
+    {
+      "id": "bubu-office",
+      "name": "布布认真办公",
+      "description": "布布守着小键盘，眯眯眼睛，认真陪你办公。",
+      "sha256": "6bf231aac9110d9030378bcdd4f0bc605ea8c8a75a2698402d01b566fe2066e7",
+      "sourceUrl": "https://github.com/Duang-cdh/-Bubu-Yier-Desktop-Pet-Software/blob/8757858895225086b7555f625ee1cda7d2b16be3/pet_res/skins/bubu/静止/平静/442.gif",
+      "file": "bubu-office.gif"
+    },
+    {
+      "id": "yier-desk",
+      "name": "一二快乐办公",
+      "description": "一二开心地敲键盘，小桌上还有电脑和鼠标。",
+      "sha256": "964283b06bfa1fd845ad828f0005ddea46af1df9e25203f3d30de42245c570c3",
+      "sourceUrl": "https://github.com/Duang-cdh/-Bubu-Yier-Desktop-Pet-Software/blob/8757858895225086b7555f625ee1cda7d2b16be3/pet_res/skins/yier/静止/平静/vx14.gif",
+      "file": "yier-desk.gif"
+    },
+    {
+      "id": "yier-laptop",
+      "name": "一二抱电脑",
+      "description": "一二抱着小笔记本电脑，软乎乎地陪你敲字。",
+      "sha256": "09b1c9cce4eda6b08d35694f9829abd6392d9745fff3945810ba56415c6acce3",
+      "sourceUrl": "https://github.com/skye-luo/yier-bubu-codex-pets/blob/2c924b2aa0345457cced778ee720d445f39a8be8/pets/yier/spritesheet.webp",
+      "file": "yier-laptop.png",
+      "frameWidth": 192,
+      "frameHeight": 208,
+      "spriteRow": 7,
+      "frameCount": 6,
+      "delays": [
+        0.12,
+        0.12,
+        0.12,
+        0.12,
+        0.12,
+        0.22
+      ],
+      "sourceSha256": "740720d83a581628fe72400459f75799cd1380cdea865fc226df628b8c33736d",
+      "conversion": "Lossless WebP-to-PNG decode, original RGBA pixels and full atlas retained; row 7 first 6 frames rendered at runtime."
+    },
+    {
+      "id": "bubu-laptop",
+      "name": "布布抱电脑",
+      "description": "布布抱着小笔记本电脑，小爪子忙个不停。",
+      "sha256": "6958f3e26fc3ed4f7bca2f40c1f3a3a06a3b2b0cb7446607773602904e7e31cb",
+      "sourceUrl": "https://github.com/skye-luo/yier-bubu-codex-pets/blob/2c924b2aa0345457cced778ee720d445f39a8be8/pets/bubu/spritesheet.webp",
+      "file": "bubu-laptop.png",
+      "frameWidth": 192,
+      "frameHeight": 208,
+      "spriteRow": 7,
+      "frameCount": 6,
+      "delays": [
+        0.12,
+        0.12,
+        0.12,
+        0.12,
+        0.12,
+        0.22
+      ],
+      "sourceSha256": "4777fcd5d5084faea3d49b55af4ed16dab0b6cfc50338c57273d6193ba29be3f",
+      "conversion": "Lossless WebP-to-PNG decode, original RGBA pixels and full atlas retained; row 7 first 6 frames rendered at runtime."
+    }
+  ]
+}
