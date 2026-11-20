@@ -35,3 +35,9 @@ dotnet publish SimulationCurtain -c Release -r win-x64 --self-contained true -o 
 键盘桌宠基于 [Li-Jiangjiu/YierBubu](https://github.com/Li-Jiangjiu/YierBubu) 的 Windows 实现。上游基线提交为 `5faff2c60fc936612cce302a4fd5282dd9385b09`。代码沿用 [MIT 许可](LICENSE)，保留了[上游第三方声明](windows/THIRD_PARTY_NOTICES.md)。
 
 一二布布角色原作黄小B。本项目是非官方个人作品。角色图片、动画和图标的权利独立于代码许可，来源和文件校验信息见[素材说明](ASSETS.md)。
+
+## 支持项目
+
+如果这两款工具对你有帮助，欢迎用微信扫码，自愿支持 RT 维护代码。源码免费下载。
+
+<a href="docs/wechat-sponsor.jpg"><img src="docs/wechat-sponsor.jpg" alt="RT 的微信赞赏码" width="320"></a>
